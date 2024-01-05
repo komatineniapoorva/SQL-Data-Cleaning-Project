@@ -1,0 +1,1 @@
+Employed advanced SQL queries to clean and refine crime datasets. Addressed anomalies, standardized formats, and normalized geographic and temporal data for accurate analysis. Result: A reliable dataset, ready for in-depth crime pattern exploration.
